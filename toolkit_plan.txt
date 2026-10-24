@@ -1,0 +1,38 @@
+WEEK 8 FINAL PROJECT: PERSONAL MINI-TOOLKIT
+
+1. TOOLS
+
+Simple Calculator:
+Performs addition, subtraction, multiplication, and division on two numbers.
+
+To-Do List:
+Allows the user to add tasks, view saved tasks, and remove tasks while the program runs.
+
+Number Checker:
+Checks whether a number is positive, negative, or zero.
+
+2. EXACT MENU TEXT
+
+Welcome to My Personal Mini-Toolkit!
+
+Please choose a tool:
+1. Simple Calculator
+2. To-Do List
+3. Number Checker
+4. Quit
+
+Enter your choice (1-4):
+
+3. PYTHON CONCEPTS
+
+Simple Calculator:
+Variables, input(), float(), conditionals, arithmetic operators, and f-strings.
+
+To-Do List:
+Lists, append(), remove(), in, loops, conditionals, and f-strings.
+
+Number Checker:
+Variables, input(), float(), conditionals, and f-strings.
+
+Main Menu:
+while loop, if/elif/else, input(), and friendly output.
